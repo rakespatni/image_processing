@@ -1,0 +1,6 @@
+Explanation for re submission
+Q5: I wrongly used the function maxVal instead of max. Matlab is new to me and hence I did not know a lot of the functions properly.
+
+Q6: Again I used maxVal instead of max.
+
+Actually this problem happened because I tried to name variables so that they make more sense.

@@ -1,0 +1,5 @@
+We see that in Question 8(i), there is no change in the images from sigma 0 to 2. All the images are black.
+
+In Question 8(ii), there is a very drastic change from sigma 0 to 2. The black image towards sigma 0 turns to white by sigma 0.7 and from sigma 0.7 to sigma 2 all images are white.
+
+The observstion we get in Question 8(iii) is in the middle of both the extreme ends that we see in the previous 2 cases. In this case, the change is not so drastic as in case 2. The images changes intensity gradually over the gamma range of 0 to 3.
